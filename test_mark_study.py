@@ -19,3 +19,5 @@ class Test_Demo2():
         b = 2
         assert 0==b#会失败
         print("这是为了打标签为smoke和add的用例")
+
+
